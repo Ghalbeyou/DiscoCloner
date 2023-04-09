@@ -4,7 +4,7 @@ Thank you for your interest in contributing to DiscoCloner! We welcome contribut
 
 ## Code of Conduct
 
-DiscoCloner follows a code of conduct that promotes a safe and inclusive community for all contributors and users. We expect all contributors to adhere to the code of conduct at all times when interacting with the project and its community. The code of conduct can be found in the [CODE_OF_CONDUCT.md](link-to-code-of-conduct.md) file.
+DiscoCloner follows a code of conduct that promotes a safe and inclusive community for all contributors and users. We expect all contributors to adhere to the code of conduct at all times when interacting with the project and its community. The code of conduct can be found in the [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) file.
 
 ## Reporting Issues
 
