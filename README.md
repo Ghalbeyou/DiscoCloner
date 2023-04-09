@@ -1,5 +1,5 @@
 # DiscoCloner
-
+[Read documents here](https://github.com/Ghalbeyou/DiscoCloner/wiki)
 DiscoCloner is a Python bot that can clone Discord servers. With DiscoCloner, you can easily copy categories, channels, and roles from one server to another.
 
 ## Installation
